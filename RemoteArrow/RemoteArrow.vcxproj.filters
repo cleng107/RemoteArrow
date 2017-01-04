@@ -21,9 +21,6 @@
     <ClInclude Include="RemoteArrow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RemoteArrowDlg.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="stdafx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -36,9 +33,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RemoteArrow.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="RemoteArrowDlg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
@@ -57,6 +51,12 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\RemoteArrow.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\RemArr.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
